@@ -1,8 +1,6 @@
 # YaGeocoder
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ya_geocoder`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+While working under own project was facing with a problem that it is no simp and thin le gem for geocoding some array of adresses via yandex API. And here it's my solution.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+[WIP]
 
 ## Development
 
